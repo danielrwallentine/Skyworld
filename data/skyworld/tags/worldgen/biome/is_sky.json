@@ -1,0 +1,9 @@
+{
+  "values": [
+    "skyworld:sky",
+    "skyworld:balmy_sky",
+    "skyworld:warm_sky",
+    "skyworld:snowy_sky",
+    "skyworld:frozen_sky"
+  ]
+}

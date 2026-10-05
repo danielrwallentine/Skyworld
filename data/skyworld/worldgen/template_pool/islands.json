@@ -1,0 +1,75 @@
+{
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/acacia",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/birch",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/cherry",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/jungle",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/oak",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/poplar",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "skyworld:island/spruce",
+        "processors": "minecraft:roof",
+        "projection": "rigid",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

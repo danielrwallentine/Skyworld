@@ -1,0 +1,12 @@
+{
+  "structures": [
+    {
+      "structure": "skyworld:island",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:dimension_origin",
+    "salt": 0
+  }
+}
